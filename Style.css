@@ -1,0 +1,36 @@
+body 
+{
+    background-color: dimgray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1 , h2 ,h3
+{
+    color: black;
+    font-family: verdana;
+    text-decoration: underline;
+    text-align: center;
+}
+#mainText
+{
+    color: black;
+    font-family: arial;
+    text-align: justify;
+}
+.imageFullWidthContent{
+    width: 100%;
+}
+
+{
+    font-size: 35px;
+}
+.anchorLarge
+{
+    
+    color: aquamarine;
+    font-size: 35px;
+    padding: 60px;
+}
+.imageFullWidthContent {
+    
+}
